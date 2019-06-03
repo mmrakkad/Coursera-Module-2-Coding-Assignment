@@ -16,8 +16,16 @@ p {
   color: white;
 }
 
+#header1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
 /* Simple Responsive Framework. */
 .row {
+  position: relative;
+  background-color: #1712F6;
   width: 100%;
 }
 
